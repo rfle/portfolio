@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: portfolio_brandery.png
+alt: Brandery Woocommerce Projekt
+project-date: 2015-2016
+client: Brandery Onlineshop für Herrenaccessiores
+category: Web Development
+description: Woocommerce Projekt
+title: Brandery
+---
