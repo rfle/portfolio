@@ -1,8 +1,8 @@
 # Site settings
 title: Roman Fleischanderl
 email: fleischanderl.roman@gmail.com
-url: //rfle.github.io
-basurl: portfolio
+url:
+basurl: "portfolio"
 description: "Portfolio von Roman Fleischanderl - Webdesign - Entwicklung"
 keywords: "your keywords, separated by commas"
 skills: "Webdesign - Entwicklung - E-Commerce"
