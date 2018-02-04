@@ -1,7 +1,7 @@
 # Site settings
 title: Roman Fleischanderl
 email: fleischanderl.roman@gmail.com
-url: https://example.github.io
+url:
 basurl: portfolio
 description: "Portfolio von Roman Fleischanderl - Webdesign - Entwicklung"
 keywords: "your keywords, separated by commas"
