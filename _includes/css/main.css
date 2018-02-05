@@ -21,9 +21,9 @@ p.small {
     font-size: 16px;
 }
 
-
+a:focus {color:white!important;}
 a:hover {color: #{{ site.color.secondary-dark }} !important;}
-a:focus,
+
 a:active,
 a.active {
     outline: 0;
@@ -113,6 +113,15 @@ header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
 }
+
+.service_icon {margin-top:60px; margin-bottom:30px;}
+.service_container {margin-top:60px; margin-bottom:30px;}
+.service_container p {margin-top:15px;}
+.tool_headline { margin-top: 60px;}
+.tool_container { display: flex; width: 100%; padding: 0px 3px; margin-top:30px; margin-bottom:30px; justify-content: space-between}
+.tool_link { color: white; font-size: 16px; padding: 20px; border: 1px solid white;}
+.tool_link:hover { color: #{{ site.color.secondary-dark }}; font-size: 16px; text-decoration: none;}
+
 .btn-send, .btn-send:focus {
     background-color: black;
     border: 2px solid #{{ site.color.secondary-dark }};
@@ -125,6 +134,7 @@ header .intro-text .skills {
 }
 
 @media(min-width:768px) {
+
     header .container {
         padding-top: 200px;
         padding-bottom: 100px;
@@ -201,6 +211,8 @@ section.success {
 }
 
 @media(max-width:767px) {
+    .tool_container {flex-direction: column;}
+    .tool_link { margin: 20px auto; width: 50%;}
     section {
         padding: 75px 0;
     }
