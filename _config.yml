@@ -9,7 +9,7 @@ description: "Portfolio von Roman Fleischanderl - Webdesign - Entwicklung"
 keywords: "your keywords, separated by commas"
 skills: "Webdesign - Entwicklung - E-Commerce"
 meta_author: Fleischanderl Roman
-image_path: "/img/main_bg.jpg"
+image_path: "img/main_bg.jpg"
 # Google webmaster tools
 google_verify:
 
