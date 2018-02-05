@@ -1,7 +1,7 @@
 # Site settings
 title: Roman Fleischanderl
 email: fleischanderl.roman@gmail.com
-url: https://rfle.github.io/portfolio/
+url: https://rfle.github.io/portfolio
 #production_url : https://rfle.github.io/portfolio/
 #BASE_PATH : https://rfle.github.io/portfolio/
 basurl: "portfolio"
