@@ -3,10 +3,10 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: portfolio_t2nl.png
-alt: Projekt Online Unternehmensberatung Take2NoLimits
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+alt: Online Unternehmensberatung Take2NoLimits
+project-date: 2017
+client: <a class="project_link" href="http://take2nolimits.eu/" target="_blank">Take2NoLimits</a>
+category: Wordpress
+description: Für die Unternehmensberater von <a class="project_link" href="http://take2nolimits.eu" target="_blank">Take2Nolimits</a> wurde die Website inklusive integrierten Blog mit Wordpress aufgebaut. Dabei wurde mir der Content vorwiegend bereites zur Verfügung gestellt, danach habe ich das Layout nach Wunsch umgesetzt.
+title: Take2NoLimits
 ---

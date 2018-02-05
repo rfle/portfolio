@@ -4,9 +4,9 @@ modal-id: 1
 date: 2014-07-18
 img: portfolio_brandery.png
 alt: Brandery Woocommerce Projekt
-project-date: 2015-2016
-client: Brandery Onlineshop für Herrenaccessiores
-category: Web Development
-description: Woocommerce Projekt
+project-date: 2016-2017
+client: <a class="project_link" href="http://brandery.de/" target="_blank">Brandery Onlineshop für Herrenaccessiores</a>
+category: Woocommerce Projekt
+description: Der <a class="project_link" href="http://brandery.de/" target="_blank"> Brandery Webshop </a> wurde mit Hilfe der Wordpress-Erweiterung Woocommerce umgesetzt. Nach Abnahme des Designs wurde das Setup für Wordpress inklusive den dazugehörigen Plugins geschaffen und danach das Template individuell auf- und umgebaut. Später würde der Shop zu einem Affiliate Shop umfunktioniert.
 title: Brandery
 ---

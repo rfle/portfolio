@@ -15,7 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                            <p class="small">{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Kunde:
                                     <strong>{{ post.client }}
@@ -25,12 +25,12 @@
                                     <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
-                                <li>Service:
+                                <li>Projekt:
                                     <strong>{{ post.category }}
                                     </strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <button type="button" class="btn btn-default btn_close" data-dismiss="modal"><i class="fa fa-times"></i> Schließen</button>
                         </div>
                     </div>
                 </div>

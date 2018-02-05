@@ -10,6 +10,7 @@ body {
 }
 h2 {
     color: black;
+    margin-top: 40px;
 }
 .headline_d {color: black;}
 .headline_l {color: #DCD735;}
@@ -132,6 +133,13 @@ header .intro-text .skills {
     border: 2px solid #{{ site.color.secondary-dark }};
     color: #{{ site.color.secondary-dark }};
 }
+.btn_close {  background-color: black;
+    border: 2px solid #{{ site.color.secondary-dark }};
+border-radius: 0px; }
+
+.btn_close:hover {   background-color: black;
+    border: 2px solid #{{ site.color.secondary-dark }};
+color: #{{ site.color.secondary-dark }};}
 
 @media(min-width:768px) {
 
@@ -202,6 +210,7 @@ section {
 
 section h2 {
     margin: 0;
+    margin-top: 30px;
     font-size: 2em;
 }
 
@@ -210,9 +219,10 @@ section.success {
     background: black;
 }
 
+a.project_link, a.project_link:focus, a.project_link:visited {color:black!important; font-weight: bold;}
 @media(max-width:767px) {
     .tool_container {flex-direction: column;}
-    .tool_link { margin: 20px auto; width: 50%;}
+    .tool_link { margin: 10px auto; width: 50%;}
     section {
         padding: 75px 0;
     }
