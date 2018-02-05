@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db48ed3-4487-4640-bc40-9eb676a19832" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cabin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/circus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/game.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/safe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/submarine.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio_brandery.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio_brandery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio_ctx.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio_ctx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile.png" afterPath="$PROJECT_DIR$/img/profile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/contact_static.html" afterPath="$PROJECT_DIR$/_includes/contact_static.html" />
     </list>
@@ -95,8 +86,8 @@
       <file leaf-file-name="contact_static.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/contact_static.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="342">
+              <caret line="22" column="194" selection-start-line="22" selection-start-column="194" selection-end-line="22" selection-end-column="194" />
               <folding />
             </state>
           </provider>
@@ -405,12 +396,12 @@
       <workItem from="1517481190221" duration="534000" />
       <workItem from="1517775298024" duration="4631000" />
       <workItem from="1517824131299" duration="9378000" />
-      <workItem from="1517848319042" duration="13887000" />
+      <workItem from="1517848319042" duration="13972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40015000" />
+    <option name="totallyTimeSpent" value="40100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -839,8 +830,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/contact_static.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="342">
+          <caret line="22" column="194" selection-start-line="22" selection-start-column="194" selection-end-line="22" selection-end-column="194" />
           <folding />
         </state>
       </provider>
