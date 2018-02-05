@@ -21,13 +21,13 @@ p.small {
     font-size: 16px;
 }
 
-a,
-a:hover,
+
+a:hover {color: #{{ site.color.secondary-dark }} !important;}
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary-dark }};
 }
 
 h1,
@@ -111,6 +111,16 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+}
+.btn-send, .btn-send:focus {
+    background-color: black;
+    border: 2px solid #{{ site.color.secondary-dark }};
+    border-radius: 0px;
+}
+.btn-send:hover {
+    background-color: black;
+    border: 2px solid #{{ site.color.secondary-dark }};
+    color: #{{ site.color.secondary-dark }};
 }
 
 @media(min-width:768px) {
@@ -595,6 +605,6 @@ time {
     .timeline ul li:nth-child(even) div::before {
         left: -15px;
         border-width: 8px 16px 8px 0;
-        border-color: transparent #189799 transparent transparent;
+        border-color: transparent #{{ site.color.secondary-dark }} transparent transparent;
     }
 }
