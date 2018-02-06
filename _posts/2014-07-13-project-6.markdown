@@ -7,6 +7,6 @@ alt: Online Unternehmensberatung Take2NoLimits
 project-date: 2017
 client: <a class="project_link" href="http://take2nolimits.eu/" target="_blank">Take2NoLimits</a>
 category: Wordpress
-description: Für die Unternehmensberater von <a class="project_link" href="http://take2nolimits.eu" target="_blank">Take2Nolimits</a> wurde die Website inklusive integrierten Blog mit Wordpress aufgebaut. Dabei wurde mir der Content vorwiegend bereites zur Verfügung gestellt, danach habe ich das Layout nach Wunsch umgesetzt.
+description: Für die Unternehmensberater von <a class="project_link" href="http://take2nolimits.eu" target="_blank">Take2Nolimits</a> wurde die Website inklusive integrierten Blog mit Wordpress aufgebaut. Dabei wurde mir der Content vorwiegend bereits zur Verfügung gestellt, danach habe ich das Layout nach Wunsch umgesetzt.
 title: Take2NoLimits
 ---

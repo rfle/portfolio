@@ -7,6 +7,6 @@ alt: Projekt Sonnberg Biofleisch Online Shop
 project-date: Coming Soon
 client: Sonnberg Biofleisch
 category: Screendesign / HTML / CSS
-description: Der Biofleisch Online Shop wird gemweinsam im Team entwickelt. Mein Aufgabenbereich liegt bei diesem Projekt vor allem in der inhaltlichen Gestaltung, sowie Überarbeitung des Frontend.
+description: Der Biofleisch Online Shop wird gemeinsam im Team entwickelt. Mein Aufgabenbereich liegt bei diesem Projekt vor allem in der inhaltlichen Gestaltung, sowie Überarbeitung des Frontend.
 title: Sonnberg Shop
 ---

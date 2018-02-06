@@ -7,6 +7,6 @@ alt: Projekt Sonnberg Biofleisch Website
 project-date: Coming Soon
 client: Sonnberg Biofleisch
 category: Screendesign / HTML / CSS
-description: Die Website für das Unternehmen Sonnberg Biofleisch wird gemweinsam im Team entwickelt. Mein Aufgabenbereich liegt bei diesem Projekt vor allem in der inhaltlichen Gestaltung, sowie Überarbeitung des Frontend.
+description: Die Website für das Unternehmen Sonnberg Biofleisch wird gemeinsam im Team entwickelt. Mein Aufgabenbereich liegt bei diesem Projekt vor allem in der inhaltlichen Gestaltung, sowie Überarbeitung des Frontend.
 title: Sonnberg Website
 ---
